@@ -15,3 +15,7 @@ Input Data from:
 * [London Times Headlines](http://languagelog.ldc.upenn.edu/nll/?p=8737)
 * [New York Times Headlines from 10 Years](https://code.google.com/p/rtexttools/source/browse/RTextTools/?r=a8b446edb01b569ac987a649d48a2f275e6e4188#RTextTools%2Fdata)
 * [Reuters-21578 Corpus](http://www.daviddlewis.com/resources/testcollections/reuters21578/)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/davidhuser/lda-nyt-lt-reuters/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
